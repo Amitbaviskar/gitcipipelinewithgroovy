@@ -1,0 +1,2 @@
+# gitcipipelinewithgroovy
+Groovy script pipeline
