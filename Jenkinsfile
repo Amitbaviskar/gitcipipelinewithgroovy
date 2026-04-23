@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/YOUR-REPO'
+                git 'https://github.com/Amitbaviskar/gitcipipelinewithgroovy.git'
             }
         }
 
